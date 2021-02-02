@@ -2,9 +2,11 @@ Rencana Konten Wpu
 -Javascript
   *ES6
   *frameworks Javascript
-  ^ Angular
-  ^ React
+   ^ value
+   ^ React
+-Struktur data dasar 
 -Php frameworks
- ^ Laravel
+ *Laravel
 -interview
 -vlogs
+-python
